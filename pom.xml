@@ -10,7 +10,7 @@
 
 
     <build>
-
+        <finalName>image2html</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
